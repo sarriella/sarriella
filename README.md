@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarriella
-- 👀 I’m interested in deep learning, wed dev, data
+- 👀 I’m interested in deep learning, web dev, data
 - 🌱 I’m currently learning responsive web design,
-- 💞️ I’m looking to collaborate on new experinces
-- 📫 How to reach me @iamsarriella on instagram
+- 💞️ I’m looking to collaborate on new experiences
+- 📫 How to reach me @gabykuiken on instagram
 - ⚡ Fun fact: My favorite color is orange and I love canva <3
 
 <!---
